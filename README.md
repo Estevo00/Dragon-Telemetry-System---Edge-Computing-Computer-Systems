@@ -1,5 +1,10 @@
 # 🚀 Dragon Telemetry System - Edge Computing & Computer Systems
 
+### 🔗 Link do Projeto no Wokwi:
+👉 **[Clique aqui para acessar a simulação ao vivo](https://wokwi.com/projects/465937213607910401)**
+
+---
+
 ## 📋 Descrição do Projeto
 Este projeto consiste no desenvolvimento do sistema embarcado de borda (Edge Computing) para a cápsula **Crew Dragon da SpaceX**, integrado como parte fundamental da Global Solution 2026. O dispositivo utiliza um microcontrolador ESP32 para monitorar variáveis críticas de navegação e suporte à vida, transmitindo os dados em tempo real via rádio através do protocolo leve **MQTT** para o broker público da **EMQX**.
 
