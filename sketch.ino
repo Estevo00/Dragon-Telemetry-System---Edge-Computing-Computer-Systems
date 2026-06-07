@@ -125,7 +125,8 @@ void readSensors() {
 }
 
 void checkAnomalies() {
-  if (temp_celsius > 80.0 || pressure_kpa < 90.0 || velocity_kmh > 28000) {
+  // Mudamos de > 80.0 para >= 80.0
+  if (temp_celsius >= 80.0 || pressure_kpa < 90.0 || velocity_kmh > 28000) {
     anomaliaDetectada = true;
   } else {
     anomaliaDetectada = false;
