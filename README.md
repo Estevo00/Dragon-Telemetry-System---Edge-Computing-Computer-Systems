@@ -59,7 +59,7 @@ O firmware do ESP32 realiza a leitura de todos os sensores e publica a telemetri
 ---
 
 ## 💻 Código Fonte (Firmware)
-O código desenvolvido utiliza as bibliotecas oficiais da Adafruit e o cliente PubSubClient para a orquestração dos dados. [cite_start]O arquivo completo com tratamento de reconexão do Wi-Fi e do Broker MQTT encontra-se na raiz desta pasta sob o nome de `sketch.ino`.
+O código desenvolvido utiliza as bibliotecas oficiais da Adafruit e o cliente PubSubClient para a orquestração dos dados. O arquivo completo com tratamento de reconexão do Wi-Fi e do Broker MQTT encontra-se na raiz desta pasta sob o nome de `sketch.ino`.
 
 
 ---
