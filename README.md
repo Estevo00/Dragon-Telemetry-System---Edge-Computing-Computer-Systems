@@ -66,7 +66,7 @@ O código desenvolvido utiliza as bibliotecas oficiais da Adafruit e o cliente P
 ## 📺 Demonstração de Funcionamento
 Abaixo, é possível conferir o comportamento do hardware simulado no Wokwi, demonstrando a leitura dos sensores e o disparo dos alertas em tempo real:
 
-https://youtu.be/n0TZ1mkNzdo
+https://youtu.be/R2Xbh47LUrc
 
 ---
 
